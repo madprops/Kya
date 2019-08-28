@@ -36,7 +36,7 @@
 		"activityBarBadge.foreground": "#000000",
 		"sideBar.background":"#14161a",
 		"sideBar.foreground":"#ffffffcc",
-		"sideBar.border":"#ffffff13",
+		"sideBar.border":"#3a3a3a23",
 		"sideBarTitle.foreground":"#ffffff42",
 		"sideBarSectionHeader.background":"#14161a",
 		"sideBarSectionHeader.foreground":"#ffffff94",
@@ -45,7 +45,7 @@
 		"titleBar.inactiveBackground":"#14161a",
 		"editorOverviewRuler.border": "#3a3a3a23",
 		"statusBar.background": "#1a1a1a",
-		"editorWidget.background": "#1c1a20"
+		"editorWidget.background": "#1c1a20",
 	},
 	"tokenColors":
 	[
