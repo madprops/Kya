@@ -1,0 +1,21 @@
+{
+    "name": "kya",
+    "displayName": "Kya",
+    "description": "Dark 80's neon theme. Inspired by Kay",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kya",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kya-color-theme.json"
+            }
+        ]
+    }
+}
