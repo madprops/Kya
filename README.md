@@ -1,1 +1,3 @@
-![](http://i.imgur.com/hBs9qQO.png)
+Similar to the Kay theme but with some modifications.
+
+![](https://i.imgur.com/wJbGDwq.png)

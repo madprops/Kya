@@ -2,7 +2,7 @@
     "name": "kya",
     "displayName": "Kya",
     "description": "Dark 80's neon theme. Inspired by Kay",
-    "version": "0.0.1",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.37.0"
     },
@@ -17,5 +17,17 @@
                 "path": "./themes/Kya-color-theme.json"
             }
         ]
+    },
+    "publisher": "madprops",
+    "keywords": [
+        "theme",
+        "dark",
+        "kay",
+        "neon"
+    ],
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/madprops/Kya.git"
     }
 }
