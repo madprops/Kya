@@ -47,7 +47,8 @@
 		"statusBar.background": "#1e1f22",
 		"statusBar.foreground": "#ffffffb2",
 		"editorWidget.background": "#1e1f22",
-		"editorWidget.foreground": "#ffffffb2"
+		"editorWidget.foreground": "#ffffffb2",
+		"panel.border": "#6a819e54"
 	},
 	"tokenColors":
 	[
