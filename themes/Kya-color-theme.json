@@ -44,8 +44,10 @@
 		"titleBar.activeBackground":"#14161a",
 		"titleBar.inactiveBackground":"#14161a",
 		"editorOverviewRuler.border": "#3a3a3a23",
-		"statusBar.background": "#1a1a1a",
-		"editorWidget.background": "#1c1a20",
+		"statusBar.background": "#222429",
+		"statusBar.foreground": "#ffffffb2",
+		"editorWidget.background": "#222429",
+		"editorWidget.foreground": "#ffffffb2"
 	},
 	"tokenColors":
 	[
