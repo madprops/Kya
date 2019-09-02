@@ -2,7 +2,7 @@
     "name": "kya",
     "displayName": "Kya",
     "description": "Dark 80's neon theme. Inspired by Kay",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "engines": {
         "vscode": "^1.37.0"
     },
